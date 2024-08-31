@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Open Positions
 ======
-Graduate positions: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
+<strong>Graduate positions<strong>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
 <ul style="list-style-type:disc;">
   <li>Machine learning for network security</li>
   <li>Machine learning for satellite networking</li>
@@ -31,7 +31,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
   <li>Transcripts from your undergraduate and graduate (if applicable) programs</li>
   <li>A sample publication (if applicable) </li>
 </ul>
-Undergraduate research assistant positions: available from time to time. Please email me if interested. 
+<strong>Undergraduate research assistant positions<strong>: available from time to time. Please email me if interested. 
 
 A data-driven personal website
 ======
