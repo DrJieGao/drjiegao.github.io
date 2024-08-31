@@ -40,52 +40,6 @@ News
 [Aug. 5, 2024]: Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing," has been accepted by the IEEE Internet of Things Journal. 
 [June 16, 2024]: Our paper "User-centric Service Provision for Edge-assisted Mobile AR: A Digital Twin-based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
 [June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
-<!-- <font color="#20C1BD" size="+2" face="Open Sans"> [Feb. 17, 2024]: Our paper "Dynamic Task Offloading and Resource Allocation for NOMA-aided Mobile Edge Computing: An Energy Efficient Design," has been accepted by the IEEE  Transactions on Services Computing. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Jan. 23, 2024]: Our paper "Digital Twin-based 3D Map Management for Edge-assisted Device Pose Tracking in Mobile AR," has been accepted by the IEEE Internet of Things Journal. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Jan. 16, 2024]: Our paper "Digital Twin-Based User-Centric Edge Continual Learning in Integrated Sensing and Communication"  has been accepted by the IEEE International Conference on Communications (IEEE ICC 2024). 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Jan. 16, 2024]: Our paper "FL2ETD: A Few-Shot Learning Framework to Electricity Theft Detection" has been accepted by the IEEE International Conference on Communications (IEEE ICC 2024). 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Jan. 16, 2024]: Our paper "Location-Based Medium Access Control for Next-Generation Industrial IoT Networks" has been accepted by the IEEE International Conference on Communications (IEEE ICC 2024). 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Jan. 9, 2023]: Our paper "“CoralDB: A Collaborative Database for Data Sharing based on Permissioned Blockchain”," has been accepted by the IEEE Transactions on Mobile Computing.
-</font><p> 
-<font color="#20C1BD" size="+2" face="Open Sans"> [Dec. 21, 2023]: Our paper "Channel Estimation for Backscatter Communication Systems under Circuit Sensitivity Constraint," has been accepted as a correspondence by the IEEE Transactions on Vehicular Technology. 
-</font><p>
-<font color="#99ABB9" size="+2" face="Open Sans"> [Nov. 20, 2023] I am serving as a Co-Chair of "Track 2: Electric Vehicles, Vehicular Electronics, and Intelligent Transportation", the 2024 IEEE 99th Vehicular Technology Conference (VTC2024)-Spring, Singapore. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Nov. 20, 2023]: Our paper "Adaptive Device-Edge Collaboration on DNN Inference in AIoT: A Digital Twin-Assisted Approach," has been accepted by the IEEE Internet of Things Journal. 
-</font><p>
-<font color="##8ECC50" size="+2" face="Open Sans"> [Aug. 30, 2023]: Mr. Mir Md Saym has officially joined us and started his Ph.D. program. Welcome!
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 19, 2023]: Our paper "Networked Integration of Sensing and Communication for Extended Reality: Framework, Challenges and Solutions," has been accepted by IEEE Network. 
-</font><p>
-<font color="#99ABB9" size="+2" face="Open Sans"> [June 20, 2023]: I am serving as a Co-Chair of "Track 3: Emerging Technologies, 5G and Beyond", the 2023 IEEE 98th Vehicular Technology Conference (VTC2023)-Fall, Hong Kong. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [May 30, 2023]: Our paper "Joint In-Orbit Computation and Communication for Minimizing Download Time from LEO Satellites," has been accepted by the IEEE Transactions on Mobile Computing. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [May 1, 2023]: Our paper "User Dynamics-Aware Edge Caching and Computing for Mobile Virtual Reality," has been accepted by the IEEE Journal of Selected Topics in Signal Processing. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Jan. 1, 2023]: Our paper "Latency Oriented Secure Wireless Federated Learning: A Channel-Sharing Approach with Artificial Jamming," has been accepted by the IEEE Internet of Things Journal. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Dec. 19, 2022]: Our paper "Towards Immersive Communications in 6G," has been accepted by Frontiers in Computer Science. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Dec. 16, 2022]: Our paper "Unmanned Aerial Vehicles Assisted Wireless Networks: Advancements, Challenges, and Solutions," has been accepted by IEEE Internet of Things Journal. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Dec. 13, 2022]: Our paper "Joint Offloading Decision and Trajectory Design for UAV-Enabled Edge Computing with Task Dependency," has been accepted by IEEE Transactions on Wireless Communications. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Nov. 5, 2022]: Our paper "Joint Offloading Scheduling and Resource Allocation in Vehicular Edge Computing: A Two Layer Solution," has been accepted by IEEE Transactions on Vehicular Technology. 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Oct. 5, 2022]: Our paper "Adaptive Mobile VR Content Delivery for Industrial 5.0," has been accepted by the Workshop on Digital Twin and Edge AI for Industrial IoT, the 28th Annual International Conference on Mobile Computing and Networking (MobiCom 2022). 
-</font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Oct. 4, 2022]: Our paper "Energy-Efficient Collaborative Multi-Access Edge Computing via Deep Reinforcement Learning" has been accepted by IEEE Transactions on Industrial Informatics. 
-</font><p>
-<font color="#99ABB9" size="+2" face="Open Sans"> [Sep. 27, 2022]: I am serving as the Publicity Co-chair for IEEE MetaCom 2023. https://www.ieee-metacom.org/2023/index.php. </font><p>
-<font color="gray" size="+2" face="Open Sans"> [Aug. 29, 2022]: Our paper "Digital Twin-Empowered Network Planning for Multi-Tier Computing" has been accepted by JCIN as the cover article. </font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 2, 2022]: Our paper "Digital Twin-Driven Computing Resource Management for Vehicular Networks" has been accepted for presentation at Globecom 2022. </font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 2, 2022]: Our paper "Digital Twin-Assisted Adaptive DNN Inference in Industrial Internet of Things" has been accepted for presentation at Globecom 2022. </font><p> -->
 
 
 A data-driven personal website
