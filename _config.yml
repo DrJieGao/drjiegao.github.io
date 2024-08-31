@@ -25,9 +25,10 @@ author:
   name             : "Jie Gao"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
-  position         : "Assistant Professor"
-  department       : "School of Information Technology"
+  bio              : "School of Information Technology"
+  bio              : "Faculty of Engineering and Design"
   employer         : "Carleton University"
+  location         : "Ottawa, Canada"
   uri              : https://www.csit.carleton.ca/jie.gao/
   email            : "jie.gao6@carleton.ca" 
 
