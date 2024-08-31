@@ -19,7 +19,7 @@ Open Positions
   <li>Machine learning for satellite networking</li>
   <li>Integrated analytical and data-driven approaches to network optimization</li>
 </ul>
-For details on my research, see my [research page](https://drjiegao.github.io//research/). 
+For details on my research, see my [Research Page](https://drjiegao.github.io//research/). 
 Preference: 
 <ul style="list-style-type:disc;">
   <li>Electrical engineering/computer engineering/computer science/math/physics background</li>
