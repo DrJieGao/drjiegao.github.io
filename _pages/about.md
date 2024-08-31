@@ -39,8 +39,11 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 [Aug. 12, 2024]: Our paper "On-Demand Collaborative Sensing with Digital Twin-Driven Resource Allocation," has been accepted by the IEEE VTC-Fall 2024. 
+
 [Aug. 5, 2024]: Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing," has been accepted by the IEEE Internet of Things Journal. 
+
 [June 16, 2024]: Our paper "User-centric Service Provision for Edge-assisted Mobile AR: A Digital Twin-based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
+
 [June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
 
 
