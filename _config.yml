@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor <br> School of Information Technology <br> Faculty of Engineering and Design"
   employer         : "Carleton University"
-  location         : "Ottawa, Canada"
   uri              : https://www.csit.carleton.ca/jie.gao/
   email            : "jie.gao6@carleton.ca" 
+  location         : "Ottawa, Canada"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
