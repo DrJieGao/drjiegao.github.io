@@ -46,7 +46,7 @@ News
 </font><p>
 <font color="#20C1BD" size="+2" face="Open Sans"> [June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
 </font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Feb. 17, 2024]: Our paper "Dynamic Task Offloading and Resource Allocation for NOMA-aided Mobile Edge Computing: An Energy Efficient Design," has been accepted by the IEEE  Transactions on Services Computing. 
+<!-- <font color="#20C1BD" size="+2" face="Open Sans"> [Feb. 17, 2024]: Our paper "Dynamic Task Offloading and Resource Allocation for NOMA-aided Mobile Edge Computing: An Energy Efficient Design," has been accepted by the IEEE  Transactions on Services Computing. 
 </font><p>
 <font color="#20C1BD" size="+2" face="Open Sans"> [Jan. 23, 2024]: Our paper "Digital Twin-based 3D Map Management for Edge-assisted Device Pose Tracking in Mobile AR," has been accepted by the IEEE Internet of Things Journal. 
 </font><p>
@@ -91,7 +91,7 @@ News
 <font color="#99ABB9" size="+2" face="Open Sans"> [Sep. 27, 2022]: I am serving as the Publicity Co-chair for IEEE MetaCom 2023. https://www.ieee-metacom.org/2023/index.php. </font><p>
 <font color="gray" size="+2" face="Open Sans"> [Aug. 29, 2022]: Our paper "Digital Twin-Empowered Network Planning for Multi-Tier Computing" has been accepted by JCIN as the cover article. </font><p>
 <font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 2, 2022]: Our paper "Digital Twin-Driven Computing Resource Management for Vehicular Networks" has been accepted for presentation at Globecom 2022. </font><p>
-<font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 2, 2022]: Our paper "Digital Twin-Assisted Adaptive DNN Inference in Industrial Internet of Things" has been accepted for presentation at Globecom 2022. </font><p>
+<font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 2, 2022]: Our paper "Digital Twin-Assisted Adaptive DNN Inference in Industrial Internet of Things" has been accepted for presentation at Globecom 2022. </font><p> -->
 </marquee>
 </div>
 
