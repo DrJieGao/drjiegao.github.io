@@ -37,7 +37,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <div>
-<marquee direction="up" bgcolor="white" onMouseOver="this.scrollAmount=0" onMouseOut="this.scrollAmount=2" scrollamount="2" loop="true" width="100%">
+#<marquee direction="up" bgcolor="white" onMouseOver="this.scrollAmount=0" onMouseOut="this.scrollAmount=2" scrollamount="2" loop="true" width="100%">
 <font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 12, 2024]: Our paper "On-Demand Collaborative Sensing with Digital Twin-Driven Resource Allocation," has been accepted by the IEEE VTC-Fall 2024. 
 </font><p>
 <font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 5, 2024]: Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing," has been accepted by the IEEE Internet of Things Journal. 
@@ -92,7 +92,7 @@ News
 <font color="gray" size="+2" face="Open Sans"> [Aug. 29, 2022]: Our paper "Digital Twin-Empowered Network Planning for Multi-Tier Computing" has been accepted by JCIN as the cover article. </font><p>
 <font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 2, 2022]: Our paper "Digital Twin-Driven Computing Resource Management for Vehicular Networks" has been accepted for presentation at Globecom 2022. </font><p>
 <font color="#20C1BD" size="+2" face="Open Sans"> [Aug. 2, 2022]: Our paper "Digital Twin-Assisted Adaptive DNN Inference in Industrial Internet of Things" has been accepted for presentation at Globecom 2022. </font><p> -->
-</marquee>
+#</marquee>
 </div>
 
 A data-driven personal website
