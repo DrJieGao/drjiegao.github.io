@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Jie's Homepage"
+title                    : "Jie Gao@Carleton University"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Bio_Photo_2024.png"
-  name             : "Jie Gao"
+  name             : "Dr. Jie Gao"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor <br> School of Information Technology <br> Faculty of Engineering and Design"
   employer         : "Carleton University"
