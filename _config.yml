@@ -28,7 +28,7 @@ author:
   employer         : "Carleton University"
   uri              : https://www.csit.carleton.ca/jie.gao/
   email            : "jie.gao6@carleton.ca" 
-  location         : "Ottawa, Canada"
+  location         : #"Ottawa, Canada"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
