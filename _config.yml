@@ -24,7 +24,7 @@ author:
   avatar           : "Bio_Photo_2024.png"
   name             : "Jie Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, School of Information Technology, Faculty of Engineering and Design"
+  bio              : "Assistant Professor <br> School of Information Technology <br> Faculty of Engineering and Design"
   employer         : "Carleton University"
   location         : "Ottawa, Canada"
   uri              : https://www.csit.carleton.ca/jie.gao/
