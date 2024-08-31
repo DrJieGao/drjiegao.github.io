@@ -31,7 +31,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
   <li>Transcripts from your undergraduate and graduate (if applicable) programs</li>
   <li>A sample publication (if applicable) </li>
 </ul>
-<strong>Undergraduate research assistant positions</strong>strong>: available from time to time. Please email me if interested. 
+<strong>Undergraduate research assistant positions</strong>: available from time to time. Please email me if interested. 
 
 A data-driven personal website
 ======
