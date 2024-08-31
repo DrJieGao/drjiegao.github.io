@@ -13,31 +13,24 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Open Positions
 ======
 Graduate positions: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
-
-Machine learning for network security
-
-Machine learning for satellite networking
-
-Integrated analytical and data-driven approaches to network optimization 
-
+<ul style="list-style-type:disc;">
+  <li>Machine learning for network security</li>
+  <li>Machine learning for satellite networking</li>
+  <li>Integrated analytical and data-driven approaches to network optimization</li>
+</ul>
 For details on my research, see here. 
-
 Preference: 
-
-Electrical engineering/computer engineering/computer science/math/physics background
-
-Solid analytical and mathematical skills
-
-Knowledge and experience with machine learning would be a bonus
-
+<ul style="list-style-type:disc;">
+  <li>Electrical engineering/computer engineering/computer science/math/physics background</li>
+  <li>Solid analytical and mathematical skills</li>
+  <li>Knowledge and experience with machine learning would be a bonus</li>
+</ul>
 If interested, please send the following documents to jie.gao6@carleton.ca
-
-Your CV
-
-Transcripts from your undergraduate and graduate (if applicable) programs
-
-A sample publication (if applicable) 
-
+<ul style="list-style-type:disc;">
+  <li>Your CV</li>
+  <li>Transcripts from your undergraduate and graduate (if applicable) programs</li>
+  <li>A sample publication (if applicable) </li>
+</ul>
 Undergraduate research assistant positions: available from time to time. Please email me if interested. 
 
 A data-driven personal website
