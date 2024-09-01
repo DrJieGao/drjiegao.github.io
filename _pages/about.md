@@ -14,6 +14,17 @@ Jie Gao received his Ph.D. degree in electrical and computer engineering from th
 <hr> 
 
 
+Professional Membership
+======
+<ul style="list-style-type:disc;">
+  <li>Senior Member, IEEE</li>
+  <li>Member, IEEE Communication Society</li>
+  <li>Member, IEEE Vehicular Technology Society</li>
+  <li>Member, IEEE Sensors Council</li>
+</ul>
+
+<hr> 
+
 Open Positions
 ======
 <strong>Graduate positions</strong>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
@@ -56,14 +67,6 @@ News
 
 
 
-Professional Membership
-======
-<ul style="list-style-type:disc;">
-  <li>Senior Member, IEEE</li>
-  <li>Member, IEEE Communication Society</li>
-  <li>Member, IEEE Vehicular Technology Society</li>
-  <li>Member, IEEE Sensors Council</li>
-</ul>
 
 
 
