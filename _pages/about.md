@@ -54,3 +54,13 @@ News
 
 [June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
 
+
+
+Professional Membership
+======
+Senior Member, IEEE
+Member, IEEE Communication Society
+Member, IEEE Vehicular Technology Society
+Member, IEEE Sensors Council
+
+
