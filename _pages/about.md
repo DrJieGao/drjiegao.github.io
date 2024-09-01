@@ -10,9 +10,8 @@ Short Bio
 ======
 Jie Gao received his Ph.D. degree in electrical and computer engineering from the University of Alberta, Edmonton, AB, in 2014, supervised by [Prof. Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow) and [Prof. Hai Jiang](https://www.ece.ualberta.ca/~hai1/) (IEEE Fellow). He was an NSERC postdoctoral fellow with Toronto Metropolitan University, Toronto, ON, from 2017 to 2019, supervised by [Prof. Lian Zhao](https://www.ecb.torontomu.ca/~lzhao/) (IEEE Fellow), a research associate with the University of Waterloo, Waterloo, ON, from 2019 to 2020, supervised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/scholar/sshen) (Fellow of IEEE, RSC, CAE and EIC) and [Prof. Weihua Zhuang](https://uwaterloo.ca/scholar/wzhuang) (Fellow of IEEE, RSC, CAE and EIC), and an assistant professor with the department of electrical and computer engineering, Marquette University, Milwaukee, WI, USA, from 2020 to 2022. In July 2022, he joined the School of Information Technology, Carleton University, Ottawa, ON. Dr. Gao’s research interests include machine learning for communications and networking, cloud and multi-access edge computing, Internet of Things (IoT) and industrial IoT solutions, and next-generation (6G) wireless networks in general. 
 
-<br>
+
 <hr> 
-<br>
 
 
 Open Positions
@@ -40,9 +39,9 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 </ul>
 <strong>Undergraduate research assistant positions</strong>: available from time to time. Please email me if interested. 
 
-<br>
+
 <hr> 
-<br>
+
 
 
 News
