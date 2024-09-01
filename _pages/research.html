@@ -19,6 +19,10 @@ author_profile: true
 
 <h1>Publications</h1>
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
 <h2>Books</h2>
 <ol type="1">
   <li>M. Li, <b>J. Gao</b>, X. Shen and L. Zhao, Intelligent Computing and Communication for the Internet of Vehicles. eBook ISBN 978-3-031-22860-5, Softcover ISBN: 978-3-031-22859-9. Springer, 2023.</li>
@@ -31,7 +35,6 @@ author_profile: true
   <li>J. Gao, S. A. Vorobyov, and H. Jiang, "Game theory in multiuser wireless communications," in Game Theory for Wireless Communications and Networking. Editors: Y. Zhang and M. Guizani, CRC Press, ISBN: 978-1-4398-0889-4, 2011, pp. 3-25.</li>
 </ol>
 
-
 <h2>Patents</h2>
 <ol type="1">
   <li>W. Zhuang, J. Gao, X. Shen, and X. Li. Method, apparatus and system for medium access control. US Patent US11991744B2. 2024.</li>
@@ -41,9 +44,7 @@ author_profile: true
 
 
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+
 
 {% include base_path %}
 
