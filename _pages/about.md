@@ -67,9 +67,9 @@ News
 
 <hr> 
 
-<style>
+
  <div>
-    margin: 200px;
+   <st margin: 200px;
   </div>
 </style>
 
