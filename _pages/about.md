@@ -68,7 +68,7 @@ News
 <hr> 
 
 
-  <div style="margin: 200px>
+  <div style="margin-bottom: 1000px>
   </div>
 
 
