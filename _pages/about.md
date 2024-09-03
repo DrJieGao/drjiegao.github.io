@@ -68,10 +68,9 @@ News
 <hr> 
 
 <!-- start custom footer snippets -->
-   <center> 
-<  script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FGFtIrD30bnaBiU_U80e_ssHa_TK-M3FqtrMSQdOanU"></script>
-    </center> 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FGFtIrD30bnaBiU_U80e_ssHa_TK-M3FqtrMSQdOanU"></script>
+    <p style="margin: 0;">Last Updated: 05/30/2024</p >
 </div>
 <!-- end custom footer snippets -->
-
 
