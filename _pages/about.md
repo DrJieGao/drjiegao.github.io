@@ -68,9 +68,9 @@ News
 <hr> 
 
 <style>
-  p {
+ <div>
     margin: 200px;
-  }
+  </div>
 </style>
 
 <!-- start custom snippets -->
