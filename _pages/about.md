@@ -69,9 +69,7 @@ News
 
 <!-- start custom footer snippets -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://clustrmaps.com/site/1c14s" title="Visit tracker">
-        <img src="//www.clustrmaps.com/map_v2.png?d=FGFtIrD30bnaBiU_U80e_ssHa_TK-M3FqtrMSQdOanU&cl=ffffff">
-    </a>
+    <a href='https://clustrmaps.com/site/1c14s'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=FGFtIrD30bnaBiU_U80e_ssHa_TK-M3FqtrMSQdOanU&co=559cce'/></a>
     <p style="margin: 0;"></p>
 </div>
 
