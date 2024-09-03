@@ -68,13 +68,9 @@ News
 <hr> 
 
 <!-- start custom footer snippets -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
    <center> 
-    <a href="https://clustrmaps.com/site/1byvp" title="Visit tracker">
-      <img src="https://www.clustrmaps.com/map_v2.png?d=xcKQhEFq8uMeQhZN6GUZ1QMspmQxmL0D8FL0KD_0P7s&cl=ffffff">
-    </a>
+<  script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FGFtIrD30bnaBiU_U80e_ssHa_TK-M3FqtrMSQdOanU"></script>
     </center> 
-    <p style="margin: 0;">Last Updated: 05/30/2024</p>
 </div>
 <!-- end custom footer snippets -->
 
