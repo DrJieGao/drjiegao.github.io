@@ -68,10 +68,9 @@ News
 <hr> 
 
 
- <div>
-   <st margin: 200px;
+  <div style="margin: 200px>
   </div>
-</style>
+
 
 <!-- start custom snippets -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
