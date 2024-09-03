@@ -75,7 +75,7 @@ News
 
 <!-- start custom footer snippets -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://clustrmaps.com/site/1byvp" title="Visit tracker">
+    <a href="https://clustrmaps.com/site/1c14s" title="Visit tracker">
         <img src="https://www.clustrmaps.com/map_v2.png?d=xcKQhEFq8uMeQhZN6GUZ1QMspmQxmL0D8FL0KD_0P7s&cl=ffffff">
     </a>
     <p style="margin: 0;">Last Updated: 05/30/2024</p>
