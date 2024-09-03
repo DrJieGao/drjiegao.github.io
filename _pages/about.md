@@ -65,15 +65,17 @@ News
 
 [June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
 
-
+<hr> 
 
 <!-- start custom footer snippets -->
+<center>
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://clustrmaps.com/site/1byvp" title="Visit tracker">
         <img src="https://www.clustrmaps.com/map_v2.png?d=xcKQhEFq8uMeQhZN6GUZ1QMspmQxmL0D8FL0KD_0P7s&cl=ffffff">
     </a>
     <p style="margin: 0;">Last Updated: 05/30/2024</p>
 </div>
+  </center>
 <!-- end custom footer snippets -->
 
 
