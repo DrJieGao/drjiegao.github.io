@@ -69,7 +69,7 @@ News
 
 <!-- start custom footer snippets -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FGFtIrD30bnaBiU_U80e_ssHa_TK-M3FqtrMSQdOanU"></script>
+  <a href="https://clustrmaps.com/site/1c14s" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=FGFtIrD30bnaBiU_U80e_ssHa_TK-M3FqtrMSQdOanU&cl=ffffff"></a>
     <p style="margin: 0;">Last Updated: 05/30/2024</p >
 </div>
 <!-- end custom footer snippets -->
