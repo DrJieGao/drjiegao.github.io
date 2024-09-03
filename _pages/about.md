@@ -68,8 +68,6 @@ News
 <hr> 
 
 
-  <div style="margin-bottom: 1000px>
-  </div>
 
 
 <!-- start custom snippets -->
