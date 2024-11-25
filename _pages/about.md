@@ -27,7 +27,7 @@ Professional Membership
 
 Open Positions
 ======
-<font color="#00acc1">Graduate positions</font>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
+<strong>Graduate positions</strong>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
 <ul style="list-style-type:disc;">
   <li> B5G/6G networks</li>
   <li>Machine learning for network security</li>
@@ -48,7 +48,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
   <li>Transcripts from your undergraduate and graduate (if applicable) programs</li>
   <li>A sample publication (if applicable) </li>
 </ul>
-<font color="#00acc1">Undergraduate research assistant positions</font>: available from time to time. Please email me if interested. 
+<strong>Undergraduate research assistant positions</strong>: available from time to time. Please email me if interested. 
 
 
 <hr> 
