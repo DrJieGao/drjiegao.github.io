@@ -25,6 +25,22 @@ Professional Membership
 
 <hr> 
 
+
+Awards and Honors
+======
+
+<ul style="list-style-type:disc;">
+  <li>IEEE Outstanding Service Award 2024<li>
+  <li>IEEE Open Journal of the Communications Society Best Editor Award 2024<li>
+  <li>IEEE Best Land Transportation Paper Award 2024 </li>
+  <li>Early-Stage Investigator Grant Award - Wisconsin Space Grant Consortium 2021 </li>
+  <li>IEEE Transactions on Vehicular Technology Top Reviewer Award 2018 </li>
+  <li>NSERC Postdoctoral Fellowship 2017-2018 </li>
+  <li>Ontario Centres of Excellence TalentEdge Fellowship 2016 </li>
+  <li>Alberta Innovates - Technology Futures Graduate Scholarship 2011-2013 </li>
+</ul>
+
+
 Open Positions
 ======
 <strong>Graduate positions</strong>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
@@ -50,9 +66,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 </ul>
 <strong>Undergraduate research assistant positions</strong>: available from time to time. Please email me if interested. 
 
-
 <hr> 
-
 
 
 News
