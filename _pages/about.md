@@ -44,6 +44,8 @@ Awards and Honors
   <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:27%" alt="">
 </p>
 
+<hr> 
+
 Open Positions
 ======
 <strong>Graduate positions</strong>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
