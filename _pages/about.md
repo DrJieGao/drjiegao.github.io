@@ -39,13 +39,13 @@ Awards and Honors
 
 <div class="row">
   <div class="column">
-  <img src="../images/Award_IEEEBestLandTransportation2024.png" style="width:75%"  alt="">
+  <img src="../images/Award_IEEEBestLandTransportation2024.png" style="width:25%"  alt="">
   </div>
   <div class="column">
-    <img src="../images/Award_IEEEService2024.jpg" style="width:85%" alt="">
+    <img src="../images/Award_IEEEService2024.jpg" style="width:25%" alt="">
   </div>
     <div class="column">
-    <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:98%" alt="">
+    <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:25%" alt="">
   </div>
 </div>
 
