@@ -50,6 +50,12 @@ Awards and Honors
 </div>
 
 
+<p float="left">
+  <img src="../images/Award_IEEEBestLandTransportation2024.png" style="width:20%"  alt="">
+  <img src="../images/Award_IEEEService2024.jpg" style="width:20%" alt="">
+  <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:20%" alt="">
+</p>
+
 Open Positions
 ======
 <strong>Graduate positions</strong>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
