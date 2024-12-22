@@ -37,19 +37,6 @@ Awards and Honors
   <li>IEEE Transactions on Vehicular Technology Top Reviewer Award 2018 </li>
 </ul>
 
-<div class="row">
-  <div class="column">
-  <img src="../images/Award_IEEEBestLandTransportation2024.png" style="width:20%"  alt="">
-  </div>
-  <div class="column">
-    <img src="../images/Award_IEEEService2024.jpg" style="width:20%" alt="">
-  </div>
-    <div class="column">
-    <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:20%" alt="">
-  </div>
-</div>
-
-
 <p float="left">
   <img src="../images/Award_IEEEBestLandTransportation2024.jpg" style="width:23%"  alt="">  &nbsp;
   <img src="../images/Award_IEEEService2024.jpg" style="width:25%" alt=""> &nbsp;
