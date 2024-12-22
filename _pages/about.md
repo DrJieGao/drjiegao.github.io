@@ -35,10 +35,19 @@ Awards and Honors
   <li>IEEE Best Land Transportation Paper Award 2024 </li>
   <li>Early-Stage Investigator Grant Award - Wisconsin Space Grant Consortium 2021 </li>
   <li>IEEE Transactions on Vehicular Technology Top Reviewer Award 2018 </li>
-  <li>NSERC Postdoctoral Fellowship 2017-2018 </li>
-  <li>Ontario Centres of Excellence TalentEdge Fellowship 2016 </li>
-  <li>Alberta Innovates - Technology Futures Graduate Scholarship 2011-2013 </li>
 </ul>
+
+<div class="row">
+  <div class="column">
+  <img src="../images/Award_IEEEBestLandTransportation2024.png" style="width:75%"  alt="">
+  </div>
+  <div class="column">
+    <img src="../images/Award_IEEEService2024.jpg" style="width:85%" alt="">
+  </div>
+    <div class="column">
+    <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:98%" alt="">
+  </div>
+</div>
 
 
 Open Positions
