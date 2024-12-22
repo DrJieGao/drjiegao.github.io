@@ -51,9 +51,9 @@ Awards and Honors
 
 
 <p float="left">
-  <img src="../images/Award_IEEEBestLandTransportation2024.jpg" style="width:25%"  alt="">
-  <img src="../images/Award_IEEEService2024.jpg" style="width:28%" alt="">
-  <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:25%" alt="">
+  <img src="../images/Award_IEEEBestLandTransportation2024.jpg" style="width:23%"  alt="">  &nbsp;
+  <img src="../images/Award_IEEEService2024.jpg" style="width:25%" alt=""> &nbsp;
+  <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:23%" alt="">
 </p>
 
 Open Positions
