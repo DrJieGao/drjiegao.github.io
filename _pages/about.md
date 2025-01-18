@@ -77,6 +77,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 
 News
 ======
+[Jan. 18, 2025]: I will be serving as a Publicity Co-Chair for IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). 
 [Oct. 9, 2024]: Our paper "Energy-efficient UAV-assisted mobile edge computing: Resource allocation and trajectory optimization" received the IEEE Best Land Transportation Paper Award at the 100th IEEE VTC (VTC-Fall 2024).
 
 [Aug. 12, 2024]: Our paper "On-Demand Collaborative Sensing with Digital Twin-Driven Resource Allocation," has been accepted by the IEEE VTC-Fall 2024. 
