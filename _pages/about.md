@@ -77,7 +77,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 
 News
 ======
-[Mar. 02, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. 
+[Mar. 2, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. 
 
 [Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles.
 
