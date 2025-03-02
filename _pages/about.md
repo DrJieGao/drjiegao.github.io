@@ -77,6 +77,10 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 
 News
 ======
+[Mar. 02, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. 
+
+[Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles.
+
 [Jan. 18, 2025]: I will be serving as a Publicity Co-Chair for IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). 
 
 [Oct. 9, 2024]: Our paper "Energy-efficient UAV-assisted mobile edge computing: Resource allocation and trajectory optimization" received the IEEE Best Land Transportation Paper Award at the 100th IEEE VTC (VTC-Fall 2024).
