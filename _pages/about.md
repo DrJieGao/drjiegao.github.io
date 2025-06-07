@@ -77,29 +77,24 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 
 News
 ======
-[May 26, 2025]: Luis Santiago joined the team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome! 
-
-[Mar. 2, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. 
-
-[Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles.
-
-[Jan. 18, 2025]: I will be serving as a Publicity Co-Chair for IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). 
-
-[Oct. 9, 2024]: Our paper "Energy-efficient UAV-assisted mobile edge computing: Resource allocation and trajectory optimization" received the IEEE Best Land Transportation Paper Award at the 100th IEEE VTC (VTC-Fall 2024).
-
-[Aug. 12, 2024]: Our paper "On-Demand Collaborative Sensing with Digital Twin-Driven Resource Allocation," has been accepted by the IEEE VTC-Fall 2024. 
-
+<ul style="list-style-type:disc;">
+ <li> [May 26, 2025]: Luis Santiago joined the team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome! </li>
+ <li> [Mar. 2, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. </li>
+ <li> [Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles. </li>
+ <li> [Jan. 18, 2025]: I will be serving as a Publicity Co-Chair for IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). </li>
+ <li> [Oct. 9, 2024]: Our paper "Energy-efficient UAV-assisted mobile edge computing: Resource allocation and trajectory optimization" received the IEEE Best Land Transportation Paper Award at the 100th IEEE VTC (VTC-Fall 2024). </li>
+ <li> [Aug. 12, 2024]: Our paper "On-Demand Collaborative Sensing with Digital Twin-Driven Resource Allocation," has been accepted by the IEEE VTC-Fall 2024. </li>
 <!--
-[Aug. 5, 2024]: Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing," has been accepted by the IEEE Internet of Things Journal. 
+ <li> [Aug. 5, 2024]: Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing," has been accepted by the IEEE Internet of Things Journal. </li>
 -->
 <!--
-[June 16, 2024]: Our paper "User-centric Service Provision for Edge-assisted Mobile AR: A Digital Twin-based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
+ <li> [June 16, 2024]: Our paper "User-centric Service Provision for Edge-assisted Mobile AR: A Digital Twin-based Approach," has been accepted by the IEEE/CIC ICCC 2024. </li>
 -->
 <!--
-[June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. 
+ <li> [June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. </li>
 -->
 <hr> 
-
+</ul>
 
 
 
