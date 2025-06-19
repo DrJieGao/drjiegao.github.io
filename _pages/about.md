@@ -31,6 +31,7 @@ Awards and Honors
 ======
 
 <ul style="list-style-type:disc;">
+  <li>IEEE VTS OJVT Best Paper Award 2025</li>
   <li>IEEE Outstanding Service Award 2024</li>
   <li>IEEE Open Journal of the Communications Society Best Editor Award 2024</li>
   <li>IEEE Best Land Transportation Paper Award 2024 </li>
