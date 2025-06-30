@@ -79,7 +79,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
- <li> [June 30] Andrii Matsevytyi joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome! </li>
+ <li> [June 30, 2025] Andrii Matsevytyi joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome! </li>
  <li> [May 26, 2025]: Luis Santiago joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome! </li>
  <li> [Mar. 2, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. </li>
  <li> [Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles. </li>
