@@ -79,8 +79,8 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
- <li> [Aug. 18, 2025]: I started co-supervising Jean Yves Mpessa Ndedi, a MASc student in the NET program, with Prof. Thomas Kunz. Welcome, Jean Yves! </li>
- <li> [Aug. 11, 2025]: I started co-supervising Cosmas Mwaba, a MASc student in the ECE program, with Prof. Halim Yanikomeroglu. Welcome, Cosmas! </li>
+ <li> [Aug. 18, 2025]: I started co-supervising Jean Yves Mpessa Ndedi (MASc student in NET) with Prof. Thomas Kunz. Welcome, Jean Yves! </li>
+ <li> [Aug. 11, 2025]: I started co-supervising Cosmas Mwaba (MASc student in ECE) with Prof. Halim Yanikomeroglu. Welcome, Cosmas! </li>
  <li> [July 31, 2025]: Our paper "PPO-based Agent Training for Adaptive Decoy Deployment in Cyber Defense" has been accepted by 2025 IEEE Global Communications Conference. </li>
  <li> [June 30, 2025]: Andrii Matsevytyi joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome,  Andrii! </li>
  <li> [May 26, 2025]: Luis Santiago joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome, Luis Santiago! </li>
