@@ -41,7 +41,12 @@ Awards and Honors
 
 <p float="left">
   &nbsp; &nbsp; &nbsp;
+  <img src="../images/OJVTAwardCertificate.jpg" style="width:30%" alt=""> &nbsp;&nbsp;
   <img src="../images/Award_IEEEBestLandTransportation2024.jpg" style="width:27%"  alt="">  &nbsp;&nbsp;
+</p>
+
+<p float="left">
+  &nbsp; &nbsp; &nbsp;
   <img src="../images/Award_IEEEService2024.jpg" style="width:30%" alt=""> &nbsp;&nbsp;
   <img src="../images/Award_OJCOMSBestEditor2024.png" style="width:27%" alt="">
 </p>
