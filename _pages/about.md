@@ -55,20 +55,19 @@ Awards and Honors
 
 Open Positions
 ======
-<strong>Graduate positions</strong>: I am looking for highly motivated graduate students to conduct research on 6G, with a special focus on machine learning. Current topics include (but are not limited to)
+<strong>Graduate positions</strong>: I am looking for highly motivated graduate students. Current priority topics include (but are not limited to)
 <ul style="list-style-type:disc;">
-  <li> B5G/6G networks</li>
-  <li>Machine learning for network security</li>
-  <li>Integrated analytical and data-driven approaches to network optimization</li>
+  <li> Advanced AI for networking (GenAI methods, AI agent and multiagent learning) </li>
+  <li> Emerging communication and networking techonlogies (quantum networking) </li>
 </ul>
-
 For details on my research, see [here](https://drjiegao.github.io//research/) 
 
 Preference: 
 <ul style="list-style-type:disc;">
-  <li>Electrical engineering/computer engineering/computer science/math/physics background</li>
-  <li>Solid analytical and mathematical skills</li>
-  <li>Knowledge and experience with machine learning would be a bonus</li>
+  <li> Ph.D. applicants with a thesis-based master's degree
+  <li> Electrical engineering/computer engineering/computer science/math/physics background</li>
+  <li> Solid analytical and mathematical skills</li>
+  <li> Knowledge and experience with machine learning </li>
 </ul>
 If interested, please send the following documents to jie.gao6@carleton.ca
 <ul style="list-style-type:disc;">
