@@ -69,6 +69,7 @@ Preference:
   <li> Solid analytical and mathematical skills</li>
   <li> Knowledge and experience with machine learning </li>
 </ul>
+
 If interested, please send the following documents to jie.gao6@carleton.ca
 <ul style="list-style-type:disc;">
   <li>Your CV</li>
