@@ -64,7 +64,7 @@ For details on my research, see [here](https://drjiegao.github.io//research/)
 
 Preference: 
 <ul style="list-style-type:disc;">
-  <li> Ph.D. applicants with a thesis-based master's degree</li>
+  <li> Ph.D. applicants with a thesis-based master's degree and a first-authored publication at a creditable venue</li>
   <li> Electrical engineering/computer engineering/computer science/math/physics background</li>
   <li> Solid analytical and mathematical skills</li>
   <li> Knowledge and experience with machine learning </li>
