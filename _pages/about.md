@@ -85,16 +85,13 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
+ <li>  [Aug. 12, 2024]: Our paper "Utilizing Meta-Learning to Enhance the Transferability of GAN-Based Adversarial Traffic Generation," has been accepted by the IEEE ICC 2026. </li>
  <li> [Sept. 3, 2025]: Linqing (Lincoln) Zhai joined our team as a Ph.D. student - Welcome, Linqing! </li>
  <li> [Sept. 3, 2025]: Karpakamurthy Muthukumar joined our team as a Ph.D. student - Welcome, Karpakamurthy! </li>
  <li> [Sept. 3, 2025]: Zeng Hao joined our team as a master's student - Welcome, Zeng! </li>
  <li> [Sept. 3, 2025]: Dawson Berry joined our team as a master's student - Welcome,  Dawson! </li>
  <li> [Aug. 18, 2025]: I started co-supervising Jean Yves Mpessa Ndedi (MASc student in NET) with Prof. Thomas Kunz. Welcome, Jean Yves! </li>
  <li> [Aug. 11, 2025]: I started co-supervising Cosmas Mwaba (MASc student in ECE) with Prof. Halim Yanikomeroglu. Welcome, Cosmas! </li>
- <li> [July 31, 2025]: Our paper "PPO-based Agent Training for Adaptive Decoy Deployment in Cyber Defense" has been accepted by 2025 IEEE Global Communications Conference. </li>
- <li> [June 30, 2025]: Andrii Matsevytyi joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome,  Andrii! </li>
- <li> [May 26, 2025]: Luis Santiago joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome, Luis Santiago! </li>
- <li> [Mar. 2, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. </li>
 <!--
 <li> [Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles. </li>
  <li> [Jan. 18, 2025]: I will be serving as a Publicity Co-Chair for IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). </li>
@@ -103,6 +100,10 @@ News
  <li> [Aug. 5, 2024]: Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing," has been accepted by the IEEE Internet of Things Journal. </li>
  <li> [June 16, 2024]: Our paper "User-centric Service Provision for Edge-assisted Mobile AR: A Digital Twin-based Approach," has been accepted by the IEEE/CIC ICCC 2024. </li>
  <li> [June 16, 2024]: Our paper "Model Drift-Adaptive Resource Reservation in ISAC Networks: A Digital Twin-Based Approach," has been accepted by the IEEE/CIC ICCC 2024. </li>
+  <li> [July 31, 2025]: Our paper "PPO-based Agent Training for Adaptive Decoy Deployment in Cyber Defense" has been accepted by 2025 IEEE Global Communications Conference. </li>
+ <li> [June 30, 2025]: Andrii Matsevytyi joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome,  Andrii! </li>
+ <li> [May 26, 2025]: Luis Santiago joined our team as a Mitacs Globalink Research Intern for Summer 2025 - Welcome, Luis Santiago! </li>
+ <li> [Mar. 2, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. </li>
 -->
 <hr> 
 </ul>
