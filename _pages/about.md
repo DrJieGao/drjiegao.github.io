@@ -85,7 +85,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
- <li>  [Aug. 12, 2024]: Our paper "Utilizing Meta-Learning to Enhance the Transferability of GAN-Based Adversarial Traffic Generation," has been accepted by the IEEE ICC 2026. </li>
+ <li> [Jan. 19, 2026]: Our paper "Utilizing Meta-Learning to Enhance the Transferability of GAN-Based Adversarial Traffic Generation," has been accepted by the IEEE ICC 2026. </li>
  <li> [Sept. 3, 2025]: Linqing (Lincoln) Zhai joined our team as a Ph.D. student - Welcome, Linqing! </li>
  <li> [Sept. 3, 2025]: Karpakamurthy Muthukumar joined our team as a Ph.D. student - Welcome, Karpakamurthy! </li>
  <li> [Sept. 3, 2025]: Zeng Hao joined our team as a master's student - Welcome, Zeng! </li>
