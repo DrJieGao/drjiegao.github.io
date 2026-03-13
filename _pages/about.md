@@ -85,6 +85,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
+ <li> [Feb. 10, 2026]: Our paper "E2E Latency-Bounded Routing with SLA Guarantee under MaxWeight Scheduling," first authored by Dawson Berry, has been accepted by the IEEE INFOCOM Workshop on ICCN. Congratulations, Dawson! </li>
  <li> [Jan. 23, 2026]: Mir Md. Saym successfully defended his master's thesis. Congratulations to Mir! </li>
  <li> [Jan. 19, 2026]: Our paper "Utilizing Meta-Learning to Enhance the Transferability of GAN-Based Adversarial Traffic Generation," has been accepted by the IEEE ICC 2026! </li>
  <li> [Sept. 3, 2025]: Linqing (Lincoln) Zhai joined our team as a Ph.D. student - Welcome, Linqing! </li>
