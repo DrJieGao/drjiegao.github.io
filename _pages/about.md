@@ -111,7 +111,6 @@ News
  <li> [Mar. 2, 2025]: Our magazine paper "User-centric Immersive Communications in 6G: A Data-oriented Framework via Digital Twin" has been accepted by IEEE Wireless Communications. </li>
 -->
 <hr> 
-</ul>
 
 
 
