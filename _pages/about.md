@@ -86,7 +86,7 @@ News
 ======
 <ul style="list-style-type:disc;">
  <li> [Apr. 22, 2026] Our paper "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP," first-authored by Igor Bogdanov, has been accepted by the ACM CAIS 2026. Congratulations, Igor and all!    
- <li> [Apr. 9, 2026]: Our poster "Hierarchical and Belief-Driven Decoy Strategies for PPO-Based Autonomous Cyber Defense Agent,", first-authored by Aaron Sethi, has been accepted by the IEEE CCECE 2026. Congratulations, Aaron and all!    
+ <li> [Apr. 9, 2026]: Our poster "Hierarchical and Belief-Driven Decoy Strategies for PPO-Based Autonomous Cyber Defense Agent," first-authored by Aaron Sethi, has been accepted by the IEEE CCECE 2026. Congratulations, Aaron and all!    
  <li> [Mar. 17, 2026]: Our paper "DQN–Based Joint UAV Trajectory and Association Planning in NTN-Assisted Networks," first-authored by Afsoon Alidadi Shamsabadi, has been accepted by the IEEE VTC2026-Spring. Congratulations, Afsoon and all! 
  <li> [Feb. 10, 2026]: Our paper "E2E Latency-Bounded Routing with SLA Guarantee under MaxWeight Scheduling," first-authored by Dawson Berry, has been accepted by the IEEE INFOCOM Workshop on ICCN. Congratulations, Dawson! </li>
  <li> [Jan. 23, 2026]: Mir Md. Saym successfully defended his master's thesis. Congratulations to Mir! </li>
