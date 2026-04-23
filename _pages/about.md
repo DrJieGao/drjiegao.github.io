@@ -85,7 +85,8 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
- <li> [Mar. 17, 2026]: Our paper "DQN–Based Joint UAV Trajectory and Association Planning in NTN-Assisted Networks," first-authored by Afsoon, has been accepted by the IEEE VTC2026-Spring. Congratulations, Afsoon and all! 
+ <li> [Apr. 9, 2026]: Our poster "Hierarchical and Belief-Driven Decoy Strategies for PPO-Based Autonomous Cyber Defense Agent,", first-authored by Aaron Sethi, has been accepted by the IEEE CCECE 2026. Congratulations, Aaron and all!    
+ <li> [Mar. 17, 2026]: Our paper "DQN–Based Joint UAV Trajectory and Association Planning in NTN-Assisted Networks," first-authored by Afsoon Alidadi Shamsabadi, has been accepted by the IEEE VTC2026-Spring. Congratulations, Afsoon and all! 
  <li> [Feb. 10, 2026]: Our paper "E2E Latency-Bounded Routing with SLA Guarantee under MaxWeight Scheduling," first-authored by Dawson Berry, has been accepted by the IEEE INFOCOM Workshop on ICCN. Congratulations, Dawson! </li>
  <li> [Jan. 23, 2026]: Mir Md. Saym successfully defended his master's thesis. Congratulations to Mir! </li>
  <li> [Jan. 19, 2026]: Our paper "Utilizing Meta-Learning to Enhance the Transferability of GAN-Based Adversarial Traffic Generation," has been accepted by the IEEE ICC 2026! </li>
