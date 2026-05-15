@@ -85,6 +85,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
+ <li> [May 15, 2026] Our paper "Explicit Control-Energy Modeling and Multi-Metric Lifetime Analysis for WSN Clustering," first-authored by Zeng Hao, has been accepted by the VTC2026-Fall. Congratulations, Zeng and all!   
  <li> [Apr. 22, 2026] Our paper "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP," first-authored by Igor Bogdanov, has been accepted by the ACM CAIS 2026. Congratulations, Igor and all!    
  <li> [Apr. 9, 2026]: Our poster "Hierarchical and Belief-Driven Decoy Strategies for PPO-Based Autonomous Cyber Defense Agent," first-authored by Aaron Sethi, has been accepted by the IEEE CCECE 2026. Congratulations, Aaron and all!    
  <li> [Mar. 17, 2026]: Our paper "DQN–Based Joint UAV Trajectory and Association Planning in NTN-Assisted Networks," first-authored by Afsoon Alidadi Shamsabadi, has been accepted by the IEEE VTC2026-Spring. Congratulations, Afsoon and all! 
