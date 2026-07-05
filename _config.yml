@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jie Gao"
 description              : &description "personal description"
 url                      : https://drjiegao.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
