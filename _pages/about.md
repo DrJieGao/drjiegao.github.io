@@ -10,7 +10,7 @@ Short Bio
 ======
 Jie Gao received his Ph.D. degree in electrical and computer engineering from the University of Alberta, Edmonton, AB, in 2014, supervised by [Prof. Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow) and [Prof. Hai Jiang](https://www.ece.ualberta.ca/~hai1/) (IEEE Fellow). He was an NSERC postdoctoral fellow with Toronto Metropolitan University, Toronto, ON, from 2017 to 2019, supervised by [Prof. Lian Zhao](https://www.ecb.torontomu.ca/~lzhao/) (IEEE Fellow), a research associate with the University of Waterloo, Waterloo, ON, from 2019 to 2020, supervised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/electrical-computer-engineering/profile/sshen) (Fellow of IEEE, RSC, CAE and EIC) and [Prof. Weihua Zhuang](https://uwaterloo.ca/electrical-computer-engineering/profile/wzhuang) (Fellow of IEEE, RSC, CAE and EIC), and an assistant professor with the Department of Electrical and Computer Engineering, Marquette University, Milwaukee, WI, USA, from 2020 to 2022. In July 2022, he joined the School of Information Technology, Carleton University, Ottawa, ON. Dr. Gao’s research interests include machine learning for communications and networking, cloud and multi-access edge computing, Internet of Things (IoT) and industrial IoT solutions, and next-generation (6G) wireless networks in general. 
 
-Dr. Gao is a cross-appointed faculty with the [Department of Systems and Computer Engineering, Carleton University](https://carleton.ca/sce/faculty/#crossappointed) (2025 - Present) and an adjunct faculty with the [Faculty of Computer Science at Dalhousie University](https://www.dal.ca/faculty/computerscience/faculty-staff.html) (2024 - Present).
+Dr. Gao is a cross-appointed faculty member with the [Department of Systems and Computer Engineering, Carleton University](https://carleton.ca/sce/faculty/#crossappointed) (2025 - Present) and an adjunct faculty with the [Faculty of Computer Science at Dalhousie University](https://www.dal.ca/faculty/computerscience/faculty-staff.html) (2024 - Present).
 
 <hr> 
 
@@ -58,13 +58,13 @@ Open Positions
 <strong>Graduate positions</strong>: I am looking for highly motivated graduate students. Current priority topics include (but are not limited to)
 <ul style="list-style-type:disc;">
   <li> Advanced AI for networking (GenAI methods, AI agent and multiagent learning) </li>
-  <li> Emerging communication and networking techonlogies (quantum networking) </li>
+  <li> Emerging communication and networking technologies (quantum networking) </li>
 </ul>
 For details on my research, see [here](https://drjiegao.github.io//research/) 
 
 Preference: 
 <ul style="list-style-type:disc;">
-  <li> Ph.D. applicants with a thesis-based master's degree and a first-authored publication at a creditable venue</li>
+  <li> Ph.D. applicants with a thesis-based master's degree and a first-authored publication at a reputable venue</li>
   <li> Electrical engineering/computer engineering/computer science/math/physics background</li>
   <li> Solid analytical and mathematical skills</li>
   <li> Knowledge and experience with machine learning </li>
@@ -77,7 +77,7 @@ If interested, please send the following documents to jie.gao6@carleton.ca
   <li>A sample publication (if applicable) </li>
 </ul>
 
-<strong>Undergraduate positions</strong>: Undergraduate research assitant positions are available from time to time. Please email me if interested. 
+<strong>Undergraduate positions</strong>: Undergraduate research assistant positions are available from time to time. Please email me if interested. 
 
 <hr> 
 
