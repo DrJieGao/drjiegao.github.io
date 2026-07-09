@@ -55,7 +55,7 @@ Awards and Honors
 
 Open Positions
 ======
-<strong>Graduate positions</strong>: I am looking for highly motivated graduate students. Current priority topics include (but are not limited to)
+<strong>Graduate positions</strong>: I am looking for highly motivated graduate students. Current priority topics include (but are not limited to):
 <ul style="list-style-type:disc;">
   <li> Advanced AI for networking (GenAI methods, AI agent and multiagent learning) </li>
   <li> Emerging communication and networking technologies (quantum networking) </li>
