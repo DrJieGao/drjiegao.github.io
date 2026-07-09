@@ -19,7 +19,7 @@ Professional Membership
 ======
 <ul style="list-style-type:disc;">
   <li>Senior Member, IEEE</li>
-  <li>Member, IEEE Communication Society</li>
+  <li>Member, IEEE Communications Society</li>
   <li>Member, IEEE Vehicular Technology Society</li>
   <li>Member, IEEE Sensors Council</li>
 </ul>
