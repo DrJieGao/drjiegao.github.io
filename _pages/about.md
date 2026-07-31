@@ -93,14 +93,14 @@ News
  <li> [Feb. 10, 2026]: Our paper "E2E Latency-Bounded Routing with SLA Guarantee under MaxWeight Scheduling," first-authored by Dawson Berry, has been accepted to IEEE INFOCOM Workshop on ICCN. Congratulations, Dawson! </li>
  <li> [Jan. 23, 2026]: Mir Md. Saym successfully defended his master's thesis. Congratulations to Mir! </li>
  <li> [Jan. 19, 2026]: Our paper "Utilizing Meta-Learning to Enhance the Transferability of GAN-Based Adversarial Traffic Generation," has been accepted to IEEE ICC 2026! </li>
+<!--
  <li> [Sept. 3, 2025]: Linqing (Lincoln) Zhai joined our team as a Ph.D. student - Welcome, Linqing! </li>
  <li> [Sept. 3, 2025]: Karpakamurthy Muthukumar joined our team as a Ph.D. student - Welcome, Karpakamurthy! </li>
  <li> [Sept. 3, 2025]: Zeng Hao joined our team as a master's student - Welcome, Zeng! </li>
  <li> [Sept. 3, 2025]: Dawson Berry joined our team as a master's student - Welcome,  Dawson! </li>
  <li> [Aug. 18, 2025]: I started co-supervising Jean Yves Mpessa Ndedi (MASc student in NET) with Prof. Thomas Kunz. Welcome, Jean Yves! </li>
  <li> [Aug. 11, 2025]: I started co-supervising Cosmas Mwaba (MASc student in ECE) with Prof. Halim Yanikomeroglu. Welcome, Cosmas! </li>
-<!--
-<li> [Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles. </li>
+ <li> [Feb. 19, 2025]: I gave an invited talk on Digital Twin, Edge Intelligence, and Integrated Sensing and Communication to IEEE ComSoC TCCN SIG on AI empowered Internet of Vehicles. </li>
  <li> [Jan. 18, 2025]: I will be serving as a Publicity Co-Chair for IEEE 102nd Vehicular Technology Conference (VTC2025-Fall). </li>
  <li> [Oct. 9, 2024]: Our paper "Energy-efficient UAV-assisted mobile edge computing: Resource allocation and trajectory optimization" received the IEEE Best Land Transportation Paper Award at the 100th IEEE VTC (VTC-Fall 2024). </li>
  <li> [Aug. 12, 2024]: Our paper "On-Demand Collaborative Sensing with Digital Twin-Driven Resource Allocation," has been accepted by the IEEE VTC-Fall 2024. </li>
