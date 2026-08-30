@@ -67,7 +67,7 @@ Preference:
   <li> Ph.D. applicants with a thesis-based master's degree and a first-authored publication at a reputable venue</li>
   <li> Electrical engineering/computer engineering/computer science/math/physics background</li>
   <li> Solid analytical and mathematical skills</li>
-  <li> Knowledge and experience with machine learning </li>
+  <li> Knowledge and experience with machine learning or quantum networks/computing </li>
 </ul>
 
 If interested, please send the following documents to jie.gao6@carleton.ca
