@@ -60,7 +60,7 @@ Open Positions
   <li> GenAI, AI agent, and multiagent learning for networking </li>
   <li> Quantum networks and quantum computing </li>
 </ul>
-Due to limited funding, strong preference is given to domestic students for master's positiions, with some exceptions. For details on my research, see [here](https://drjiegao.github.io//research/) 
+Due to limited funding, strong preference is given to domestic students for master's positions, although exceptions might be made depending on qualification. For details on my research, see [here](https://drjiegao.github.io//research/) 
 
 Preference: 
 <ul style="list-style-type:disc;">
