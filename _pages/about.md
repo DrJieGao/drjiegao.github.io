@@ -55,12 +55,12 @@ Awards and Honors
 
 Open Positions
 ======
-<strong>Graduate positions</strong>: I am looking for highly motivated graduate students. Current priority topics include (but are not limited to):
+<strong>Graduate positions</strong>: I am looking for highly motivated graduate students, especially PhD students, in:
 <ul style="list-style-type:disc;">
-  <li> Advanced AI for networking (GenAI methods, AI agent and multiagent learning) </li>
-  <li> Emerging communication and networking technologies (quantum networking) </li>
+  <li> GenAI, AI agent, and multiagent learning for networking </li>
+  <li> Quantum networks and quantum computing </li>
 </ul>
-For details on my research, see [here](https://drjiegao.github.io//research/) 
+Due to limited funding, strong preference is given to domestic students for master's positiions, with some exceptions. For details on my research, see [here](https://drjiegao.github.io//research/) 
 
 Preference: 
 <ul style="list-style-type:disc;">
