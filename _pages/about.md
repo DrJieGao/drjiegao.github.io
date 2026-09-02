@@ -85,7 +85,8 @@ If interested, please send the following documents to jie.gao6@carleton.ca
 News
 ======
 <ul style="list-style-type:disc;">
- <li> [Aug 25, 2026]: Our paper "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality," first-authored by Yoga, has been accepted to IEEE TCCN. Congratulations, Yoga and all!
+ <li> [Sept. 2, 2026]: Cosmas Mwaba successfully defended his master's thesis. Congratulations to Cosmas!
+ <li> [Aug. 25, 2026]: Our paper "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality," first-authored by Yoga, has been accepted to IEEE TCCN. Congratulations, Yoga and all!
  <li> [July 31, 2026]: Our paper "Scalable RL for Autonomous Cyber Defense in Varying Networks: A Transformer-based Approach," first-authored by Andrii Matsevytyi, has been accepted to IEEE GLOBECOM 2026. Congratulations, Andrii and all!
  <li> [May 15, 2026]: Our paper "Explicit Control-Energy Modeling and Multi-Metric Lifetime Analysis for WSN Clustering," first-authored by Zeng Hao, has been accepted to IEEE VTC2026-Fall. Congratulations, Zeng and all!   
  <li> [Apr. 22, 2026]: Our paper "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP," first-authored by Igor Bogdanov, has been accepted to ACM CAIS 2026. Congratulations, Igor and all!    
