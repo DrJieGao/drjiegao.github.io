@@ -77,6 +77,8 @@ If interested, please send the following documents to jie.gao6@carleton.ca
   <li>A sample publication (if applicable) </li>
 </ul>
 
+<strong>Visiting Researchers</strong>: Visiting researchers with expertise in our fields are welcome, subject to university approval and applicable government policies.  
+
 <strong>Undergraduate positions</strong>: Undergraduate research assistant positions are available from time to time. Please email me if interested. 
 
 <hr> 
